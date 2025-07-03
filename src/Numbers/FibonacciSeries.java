@@ -7,6 +7,10 @@ public class FibonacciSeries {
 		// 0 1 1 2 3 5 8 13 21 34 --> Fibonacci series
 		// Fibonacci series is a sum of two preceding numbers
 		
+		/*
+		 * * Example: Input: 10 Output: 0 1 1 2 3 5 8 13 21 34
+		 */
+			
 		int n1=0, n2=1, sum =0; 
 		
 		System.out.print(n1 +" "+ n2);
